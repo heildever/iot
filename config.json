@@ -1,0 +1,19 @@
+{
+	"DeviceID": {
+		"zone3": ["node1"],
+		"zone2": ["node1"]
+	},
+	"pir": {
+		"zone3": ["node1", 17]
+	},
+	"fake_pir": {
+		"zone2": ["node1"]
+	},
+	"Parameters": {
+		"IP": "localhost",
+		"WSIP": "192.168.21.78",
+		"WSPort": 8080,
+		"thingspeak_key": "NXCLG7W3AQVRDBL1",
+		"port": "1883"
+	}
+}
