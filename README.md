@@ -1,5 +1,5 @@
 # iot
-This repository it contains the python modules explained below. The modules are pieces of a user-centric smart lighthing mechanism and they are meant to work together with a decision algorithm - can be found [here](https://github.com/hobyfrezk/IOT-smart-office-light-system).
+This repository it contains the python modules explained below. The modules are pieces of a user-centric smart lighting mechanism and they are meant to work together with a decision algorithm - can be found [here](https://github.com/hobyfrezk/IOT-smart-office-light-system).
 
 ## Getting Started 
 Please make sure you clone both repo's and setup an MQTT broker on the LAN. 
